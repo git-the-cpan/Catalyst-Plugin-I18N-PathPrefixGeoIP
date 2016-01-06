@@ -42,4 +42,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/runarbu/Catalyst-Plugin-I18N-PathPrefixGeoIP.git
-version: '0.09'
+version: '0.10'
